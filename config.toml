@@ -1,0 +1,5 @@
+baseURL = "https://koumaza.github.io/blog"
+languageCode = "en-us"
+title = "koumaza's blog"
+theme = "hugo-theme-terminal"
+canonifyurls = true
