@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - init: brew install hugo
+    command: hugo server -D
+ports:
+  - port: 1313
+    onOpen: open-preview
