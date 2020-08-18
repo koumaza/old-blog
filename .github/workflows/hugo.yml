@@ -24,7 +24,7 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
-    - name: buildandpush
+    - name: Build
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
