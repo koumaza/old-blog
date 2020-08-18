@@ -10,7 +10,8 @@ draft: false
 
 メソッドを先に書くと、[jd.com](https://www.jd.com/index.html)を用いります。
 jd.comとはなんと､海外への配送に対応している､中国国内２位のシェアを誇るECサイトです。
-`mi.com/index.html` や `asus.com.cn` は日本の電話番号を使えない上､配送にも対応していません｡ [jd.com](https://www.jd.com/index.html)は唯一の選択肢なのです｡
+`mi.com/index.html` や `asus.com.cn` は日本の電話番号を使えない上､配送にも対応していません｡
+[jd.com](https://www.jd.com/index.html)は唯一の選択肢なのです｡
 配送料はかかりますが中国本土と同じ値段で買えるためすごいお得です｡ Gea〇Bes〇やEto〇enで買うよりいいのでは｡
 
 ### 中国本土を除いて配送に対応している国々
