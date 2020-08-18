@@ -1,7 +1,7 @@
 ---
 title: "First Page (Ja)"
 date: 2020-08-16T15:17:12Z
-draft: true
+draft: false
 ---
 
 ### 何故始めたか
