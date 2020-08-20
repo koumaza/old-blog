@@ -1,7 +1,7 @@
 ---
 title: "EWS Is? (Ja)"
 date: 
-draft: true
+draft: false
 ---
 
 # はじめに
